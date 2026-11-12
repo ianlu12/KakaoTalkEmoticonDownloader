@@ -8,7 +8,7 @@
 - 依賴：`requests`、`Pillow`
 
 ```bash
-pip install requests Pillow
+pip install -r requirements.txt
 ```
 
 ## 快速開始
